@@ -3,9 +3,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-<p align="center">
-  <img src="assets/header.png" alt="LLM Agents & Ecosystem Handbook banner" width="800"/>
-</p>
 
 <p align="center"><strong>A unified handbook for building, deploying and understanding LLM agents and the wider ecosystem</strong></p>
 
