@@ -1,0 +1,6 @@
+# Core dependencies for running the example agents and web apps
+gradio
+streamlit
+pandas
+numpy
+pytest
